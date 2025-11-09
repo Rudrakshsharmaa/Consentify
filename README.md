@@ -26,9 +26,10 @@ The backend compiles results and returns:
 A risk summary
 A section-wise explanation
 A visual consent alignment score
+
 ⚙️ Setup Instructions
 1️⃣ Clone the Repository
-git clone https://github.com/Rudrakshsharmaa/Consentify.git
+git clone https://github.com/Rudrakshsharmaa/Consentify
 cd Consentify
 2️⃣ Install Dependencies
 bash
